@@ -1,4 +1,4 @@
-aon.exercise
+aon exercise
 =======================
 
 This is "Aon Timing and Arrays" Exercise.
@@ -15,8 +15,6 @@ aon/
 |-- AonExercise.iml
 `-- readme.md
 
-Run class
----------
 
 To run AonExerciseMain class, right click on class and then click AonExercise.main().
 
